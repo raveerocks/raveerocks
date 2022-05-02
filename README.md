@@ -20,7 +20,7 @@ who act as the glue that binds the sales team with the customer on one hand and 
 <br>
   <div align=center> 
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=raveerocks&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=raveerocks&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
   </div>
   
