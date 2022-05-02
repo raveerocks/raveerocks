@@ -10,6 +10,11 @@ I'm currently a Customer Engineer at [@BrowserStack](https://github.com/browsers
 who act as the glue that binds the sales team with the customer on one hand and with the internal product and engineering teams on the other. I am also aspiring tech [blogger](https://medium.com/@raveerocks
 ) and adventure seeker.
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/ravee_rocks?label=Follow)](https://twitter.com/intent/follow?screen_name=ravee_rocks)
+[![Linkedin: ravee](https://img.shields.io/badge/-ravee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raveendratudangil/)](https://www.linkedin.com/in/raveendratudangil/)
+![GitHub followers](https://img.shields.io/github/followers/raveerocks?label=Follow&style=social)
+
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
   <div align=center> 
